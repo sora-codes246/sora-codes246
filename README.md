@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there! 👋 I'm Sora
 
-<!--
-**sora-codes246/sora-codes246** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student
 
-Here are some ideas to get you started:
+## 🚀 Currently Learning
+- Python
+- C Programming
+- Git & GitHub
+- HTML & CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack
+- Python
+- C
+- Git
+- GitHub
+- VS Code
+
+## 🎯 Goals for 2026
+- Build 20+ Projects
+- Master Data Structures & Algorithms
+- Learn Full Stack Development
+- Contribute to Open Source
+
+## 📈 GitHub Journey
+Every project here is part of my learning journey. I'm always exploring, building, and improving my skills.
+
+---
+⭐ Thanks for visiting my profile!
